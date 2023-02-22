@@ -406,6 +406,7 @@ body {
 .slider-item-link[disabled] {
     cursor: default;
     opacity: .8;
+    pointer-events: none;
 }
 
 .slider-item-link:first-of-type {

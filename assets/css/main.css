@@ -247,7 +247,7 @@ body {
 }
 
 .landing-picture:hover::after {
-    width: 102%;
+    width: 100%;
     transform: translate(-50%, -50%);
 }
 

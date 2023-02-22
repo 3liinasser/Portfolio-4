@@ -258,7 +258,6 @@ body {
 
 .landing-picture:hover img {
     filter: brightness(.6);
-    transform: scale(1.02);
 }
 
 /* PROJECTS */
